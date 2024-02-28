@@ -17,7 +17,7 @@ function Elvate() {
         <div className="flex  gap-3 [&>*]:w-[20rem] flex-wrap items-center justify-center ">
           <div className="flex items-center gap-3 flex-wrap">
             <Image
-              src="/icons/digital-audits-control.svg"
+              src="./icons/digital-audits-control.svg"
               alt="Digital Audits"
               width={34}
               height={34}
@@ -28,7 +28,7 @@ function Elvate() {
           </div>
           <div className="flex items-center gap-3">
             <Image
-              src="/icons/incident-managment.svg"
+              src="./icons/incident-managment.svg"
               alt="Digital Audits"
               width={34}
               height={34}
@@ -44,7 +44,7 @@ function Elvate() {
         <div className="flex gap-3 [&>*]:w-[20rem] flex-wrap justify-center">
           <div className="flex items-center gap-3">
             <Image
-              src="/icons/ai-powered-decision-support.svg"
+              src="./icons/ai-powered-decision-support.svg"
               alt="Digital Audits"
               width={34}
               height={34}
@@ -55,7 +55,7 @@ function Elvate() {
           </div>
           <div className="flex items-center gap-3">
             <Image
-              src="/icons/client-satisfaction.svg"
+              src="./icons/client-satisfaction.svg"
               alt="Digital Audits"
               width={34}
               height={34}

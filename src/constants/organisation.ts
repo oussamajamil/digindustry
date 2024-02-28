@@ -1,11 +1,11 @@
 export const dataOrganisation = [
     {
         title:"Factory",
-        logo:"/organisation/fmc/logo.svg",
+        logo:"./organisation/fmc/logo.svg",
         subtitle: "The Digital Hub of Manufacturing Excellence",
         color:"#FA993A",
         name: "FMC2E",
-        icon:"/icons/done_blue.svg",
+        icon:"./icons/done_blue.svg",
         image:"/organisation/fmc/fmc.jpg",
         information:[
             {
@@ -28,10 +28,10 @@ export const dataOrganisation = [
     },
     {
         title:"Engineering Team",
-        logo:"/organisation/nextronic/logo.svg",
+        logo:"./organisation/nextronic/logo.svg",
         subtitle: "Pioneering Innovation in Every Design",
         color:"#A90019",
-        icon:"/icons/done_red.svg",
+        icon:"./icons/done_red.svg",
         name: "Nextronic",
         image:"/organisation/nextronic/nextronic.jpg",
         information:[
@@ -56,11 +56,11 @@ export const dataOrganisation = [
     },
     {
         title:"Hardware Team",
-        logo:"/organisation/nextcor/logo.svg",
+        logo:"./organisation/nextcor/logo.svg",
         subtitle: "Crafting Tomorrow's Technological Foundations",
         name: "Nextcor",
         image:"/organisation/nextcor/nextcor.jpg",
-        icon:"/icons/done_red.svg",
+        icon:"./icons/done_red.svg",
         color:"#AE0018",
         information:[
             {
@@ -84,8 +84,8 @@ export const dataOrganisation = [
     },
     {
         title:"Middleware Team",
-        logo:"/organisation/hardiot/logo.svg",
-        icon:"/icons/done_red.svg",
+        logo:"./organisation/hardiot/logo.svg",
+        icon:"./icons/done_red.svg",
         subtitle: "Bridging Hardware and Software Excellence",
         color:"#D3000F",
       
@@ -114,8 +114,8 @@ export const dataOrganisation = [
     {
         title:"Software Team",
         subtitle:"Empowering Innovation: Meet DIGIEYE Software Team",
-        logo:"/organisation/digieye/logo.svg",
-        icon:"/icons/done_blue.svg",
+        logo:"./organisation/digieye/logo.svg",
+        icon:"./icons/done_blue.svg",
         name: "Digieye",
         image:"/organisation/digieye/digieye.png",
         color:"#1C5DAA",

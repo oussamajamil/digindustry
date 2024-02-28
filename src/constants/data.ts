@@ -75,35 +75,35 @@ export const SolutionsData: {
             image:"./icons/aoi-quality-check.svg"
         },
         {
-          image: "/icons/cloud_compting.svg",
+          image: "./icons/cloud_compting.svg",
           title: "Cloud Computing",
         },
         {
           title: "Ai Empowerment",
-          image: "/icons/ai-empowerment.svg",
+          image: "./icons/ai-empowerment.svg",
         },
     ]
 }
 
 
 export const Suppotrs = [{
-  image:"/icons/support_site.svg",
+  image:"./icons/support_site.svg",
   value: "digieye.io",
 },
 {
-  image:"/icons/support_email.svg",
+  image:"./icons/support_email.svg",
   value: "support@digieye.io",
 },
 {
-  image:"/icons/support_phone.svg",
+  image:"./icons/support_phone.svg",
   value: "+212 542 478 252",
 },
 {
-  image:"/icons/support_linkdin.svg",
+  image:"./icons/support_linkdin.svg",
   value: "company/iot-digieye",
 },
 {
-  image:"/icons/support_position.svg",
+  image:"./icons/support_position.svg",
   value: "7th floor, Technopark, Casablanca 20253",
 }
 ]
@@ -115,23 +115,23 @@ export const EcosystemData ={
   children: [
   {
       title:"Factory Team",
-      image:"/icons/factory.svg",
+      image:"./icons/factory.svg",
   },
   {
       title:"Engineering Team",
-      image:"/icons/engineering_team.svg",
+      image:"./icons/engineering_team.svg",
   },
   {
       title:"Hardware Team",
-      image:"/icons/hardware_team.svg",
+      image:"./icons/hardware_team.svg",
   },
   {
       title:"Middleware Team",
-      image:"/icons/middleware_team.svg",
+      image:"./icons/middleware_team.svg",
   },
   {
       title:"Software Team",
-      image:"/icons/software_team.svg",
+      image:"./icons/software_team.svg",
   }
 ]};
 
@@ -191,20 +191,20 @@ export const chooseUsData: {
     description: string;
   }[] = [
     {
-      image: "/images/image_1.jpg",
+      image: "./images/image_1.jpg",
       title: "Expert Center of Excellence (CoE)",
       description:
         "Specialized in AI, IoT, Smart Manufacturing, Edge AI, and Digital Twins.",
     },
     {
-      image: "/images/image_2.jpg",
+      image: "./images/image_2.jpg",
       title: "End-to-End AI-Powered IoT Solutions",
       description:
         "Deployment of enterprise-grade solutions for Industry X.0 initiatives.",
     },
    
     {
-      image: "/images/image_3.jpg",
+      image: "./images/image_3.jpg",
       title: "Resilient Cyber-Physical Frameworks",
       description:
         "Support in crafting stable manufacturing operations through robust cyber-physical solutions.",

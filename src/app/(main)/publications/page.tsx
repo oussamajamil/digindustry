@@ -23,7 +23,7 @@ const news = [
     description:
       "Explore how Digindustry X.0 revolutionizes resource optimization for sustainable solutions in the Energy, Resources & Utilities sector.",
     author: "Mohamed BENOUDA",
-    avatar: "/publication/user-bonouda.png",
+    avatar: "./publication/user-bonouda.png",
     date: "2021-10-10",
     views: 100,
     tag: "IOT & ELECTRONICS",
@@ -33,7 +33,7 @@ const news = [
     description:
       "Explore how Digindustry X.0 revolutionizes resource optimization for sustainable solutions in the Energy, Resources & Utilities sector.",
     author: "Mohamed BENOUDA",
-    avatar: "/publication/user-bonouda.png",
+    avatar: "./publication/user-bonouda.png",
     date: "2021-10-10",
     views: 100,
     tag: "IOT & ELECTRONICS",
@@ -43,7 +43,7 @@ const news = [
     description:
       "Explore how Digindustry X.0 revolutionizes resource optimization for sustainable solutions in the Energy, Resources & Utilities sector.",
     author: "Mohamed BENOUDA",
-    avatar: "/publication/user-bonouda.png",
+    avatar: "./publication/user-bonouda.png",
     date: "2021-10-10",
     views: 100,
     tag: "IOT & ELECTRONICS",
