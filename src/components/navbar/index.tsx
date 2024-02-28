@@ -66,6 +66,7 @@ function NavBar({ className, ...props }: NavBarTypeProps): JSX.Element {
               >
                 {isActive && (
                   <motion.div
+                    initial={false}
                     layoutId="active-nav-item"
                     transition={{ duration: 0.5, type: "spring" }}
                     className="h-1 w-full absolute -bottom-1 bg-foreground rounded-full"
