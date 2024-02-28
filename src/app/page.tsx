@@ -1,11 +1,11 @@
 import Image from "next/image";
-import Hero from "./_components/hero";
-import Transform from "./_components/transformative";
-import SolutionsProductios from "./_components/solutions";
-import { ProductionData, SolutionsData } from "../../constants/data";
-import Elvate from "./_components/elvate";
-import ChooseUs from "./_components/chooseUs";
-import Driving from "./_components/driving";
+import Hero from "./(main)/_components/hero";
+import Transform from "./(main)/_components/transformative";
+import SolutionsProductios from "./(main)/_components/solutions";
+import { ProductionData, SolutionsData } from "../constants/data";
+import Elvate from "./(main)/_components/elvate";
+import ChooseUs from "./(main)/_components/chooseUs";
+import Driving from "./(main)/_components/driving";
 import { cn } from "@/lib/utils";
 import { font } from "./layout";
 export default function Home() {
