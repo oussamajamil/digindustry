@@ -191,20 +191,20 @@ export const chooseUsData: {
     description: string;
   }[] = [
     {
-      image: "./images/image_1.jpg",
+      image: "/images/image_1.jpg",
       title: "Expert Center of Excellence (CoE)",
       description:
         "Specialized in AI, IoT, Smart Manufacturing, Edge AI, and Digital Twins.",
     },
     {
-      image: "./images/image_2.jpg",
+      image: "/images/image_2.jpg",
       title: "End-to-End AI-Powered IoT Solutions",
       description:
         "Deployment of enterprise-grade solutions for Industry X.0 initiatives.",
     },
    
     {
-      image: "./images/image_3.jpg",
+      image: "/images/image_3.jpg",
       title: "Resilient Cyber-Physical Frameworks",
       description:
         "Support in crafting stable manufacturing operations through robust cyber-physical solutions.",

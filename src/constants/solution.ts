@@ -16,8 +16,8 @@ export const solutionData = [
         title:"Performance Analytics",
         description:"Access comprehensive performance analytics to enhance decision-making and maximize asset efficiency."
     }],
-    image1:"./images/1.jpg",
-    image2:"./images/2.jpg",
+    image1:"/images/1.jpg",
+    image2:"/images/2.jpg",
 },
 {
     title:"Production Efficiency",
@@ -38,8 +38,8 @@ export const solutionData = [
         description:"   Ensure efficient resource allocation throughout the production  process with Digindustry X.0, minimizing downtime and maximizing output."
     },
 ],
-    image1:"./images/3.jpg",
-    image2:"./images/4.jpg",
+    image1:"/images/3.jpg",
+    image2:"/images/4.jpg",
 },
 {
     title:"Predictive Quality",
@@ -60,8 +60,8 @@ export const solutionData = [
         title:"Continuous Improvement",
         description:"       Drive continuous improvement in product quality with predictive analytics, refining quality control procedures."
     }],
-    image1:"./images/5.jpg",
-    image2:"./images/6.jpg",
+    image1:"/images/5.jpg",
+    image2:"/images/6.jpg",
 },
 {
     title:"Asset Management",
@@ -82,8 +82,8 @@ export const solutionData = [
         title:"Performance Analytics",
         description:"Access comprehensive performance analytics to enhance decision-making and maximize asset efficiency."
     }],
-    image1:"./images/7.jpg",
-    image2:"./images/8.jpg",
+    image1:"/images/7.jpg",
+    image2:"/images/8.jpg",
 },
 {
     title:"Connected Workers",
@@ -102,8 +102,8 @@ export const solutionData = [
         title:"Seamless Collaboration Tools",
         description:"Seamless Collaboration ToolsProvide tools for seamless collaboration, allowing your connected workforce to work together efficiently, regardless of location."
     }],
-    image1:"./images/9.jpg",
-    image2:"./images/10.jpg",
+    image1:"/images/9.jpg",
+    image2:"/images/10.jpg",
 },
 {
     title:"Energy Monitoring",
@@ -122,8 +122,8 @@ export const solutionData = [
         title:"Informed Decision-Making",
         description:"Make informed decisions about energy resources with insights from Digindustry X.0's Energy Monitoring solutions."
     }],
-    image1:"./images/11.jpg",
-    image2:"./images/12.jpg",
+    image1:"/images/11.jpg",
+    image2:"/images/12.jpg",
 },
 {
     title:"AOI Quality Check",
@@ -146,8 +146,8 @@ export const solutionData = [
         title:"Elevated Quality Standards",
         description:"Elevate your quality standards with automated quality checks,ensuring consistency and reliability."
     }],
-    image1:"./images/13.jpg",
-    image2:"./images/14.jpg",
+    image1:"/images/13.jpg",
+    image2:"/images/14.jpg",
 },
 {
     title:"Cloud Computing",
@@ -170,8 +170,8 @@ export const solutionData = [
         title:"I-Driven Analytics",
         description:"Leverage AI-driven analytics for actionable insights, enhancing decision-making for superior business outcomes."
     }],
-    image1:"./images/5.jpg",
-    image2:"./images/7.jpg",
+    image1:"/images/5.jpg",
+    image2:"/images/7.jpg",
 },
 {
     title:"AI Empowerment",
@@ -193,7 +193,7 @@ export const solutionData = [
         title:"Adaptive Learning Systems",
         description:"Enhance adaptability with AI-driven learning systems, evolving and optimizing operations based on real-time data and feedback."
     }],
-    image1:"./images/8.jpg",
-    image2:"./images/12.jpg",
+    image1:"/images/8.jpg",
+    image2:"/images/12.jpg",
 }
 ]

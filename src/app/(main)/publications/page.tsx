@@ -23,27 +23,27 @@ const news = [
     description:
       "Explore how Digindustry X.0 revolutionizes resource optimization for sustainable solutions in the Energy, Resources & Utilities sector.",
     author: "Mohamed BENOUDA",
-    avatar: "./publication/user-bonouda.png",
+    avatar: "/publication/user-bonouda.png",
     date: "2021-10-10",
     views: 100,
     tag: "IOT & ELECTRONICS",
   },
   {
-    title: "Revolutionizing Energy Management in Industry X.0 ||| ",
+    title: "Revolutionizing Energy Management in Industry X.0",
     description:
       "Explore how Digindustry X.0 revolutionizes resource optimization for sustainable solutions in the Energy, Resources & Utilities sector.",
     author: "Mohamed BENOUDA",
-    avatar: "./publication/user-bonouda.png",
+    avatar: "/publication/user-bonouda.png",
     date: "2021-10-10",
     views: 100,
     tag: "IOT & ELECTRONICS",
   },
   {
-    title: "||||||Revolutionizing Energy Management in Industry X.0",
+    title: "Revolutionizing Energy Management in Industry X.0",
     description:
       "Explore how Digindustry X.0 revolutionizes resource optimization for sustainable solutions in the Energy, Resources & Utilities sector.",
     author: "Mohamed BENOUDA",
-    avatar: "./publication/user-bonouda.png",
+    avatar: "/publication/user-bonouda.png",
     date: "2021-10-10",
     views: 100,
     tag: "IOT & ELECTRONICS",
@@ -69,7 +69,7 @@ function PagePublication() {
         className="w-full flex flex-col items-start  bg-cover bg-center bg-no-repeat text-white p-[clamp(1rem,5vw,5rem)] "
         style={{
           backgroundImage:
-            "linear-gradient(180deg, #000000 -6.74%, rgba(0, 0, 0, 0) 31.72%, rgba(0, 0, 0, 0) 51.54%, #000000 98.13%),url('./publication/ftr.png')",
+            "linear-gradient(180deg, #000000 -6.74%, rgba(0, 0, 0, 0) 31.72%, rgba(0, 0, 0, 0) 51.54%, #000000 98.13%),url('/publication/ftr.png')",
           backgroundSize: "cover",
         }}
       >

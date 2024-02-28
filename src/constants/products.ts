@@ -3,7 +3,7 @@ export const ProductData = [
       title: 'Connectivity Machine',
       subTitle: 'Optimized Data Exchange for Seamless Operations.',
       description:"Maximize connectivity with Digindustry X.0's Connectivity Machine. From data exchange optimization to real-time monitoring, our solution ensures seamless connectivity between devices. With a focus on IoT integration, we lead industries toward a connected and intelligent future.",
-      image:"./images/connectivity_machine.png",
+      image:"/images/connectivity_machine.png",
       information:[
         {
           title:'Enhanced Data Exchange Facilitate',
@@ -23,7 +23,7 @@ export const ProductData = [
       title: 'Vibration Sensor',
       subTitle: 'Precision Monitoring for Early Fault Detection.',
       description:"Ensure equipment reliability using Digindustry X.0's Vibration Sensor. Achieve precision in monitoring vibrations, enabling early fault detection and minimizing downtime. Our customizable alerts empower proactive maintenance, extending equipment lifespan and enhancing overall operational efficiency.",
-      image:"./images/vibration_sensor.png",
+      image:"/images/vibration_sensor.png",
       information:[
         {
           title:'Precision Vibration Monitoring',
@@ -43,7 +43,7 @@ export const ProductData = [
       title: 'Computer Vision',
       subTitle: 'Visual Data Analysis & Automated Inspections.',
       description:"Unlock visual insights with Digindustry X.0's Computer Vision. From data analysis to automated inspections, our solution enhances decision-making. Object recognition capabilities contribute to improved security, tracking, and overall operational efficiency, redefining industry standards.",
-      image:"./images/computer_vision.png",
+      image:"/images/computer_vision.png",
       information:[
         {
           title:'Visual Data Analysis',
@@ -63,7 +63,7 @@ export const ProductData = [
       title: 'Temperature',
       subTitle: 'Precision Monitoring for Optimal Conditions.',
       description:"Optimize operational conditions with Digindustry X.0's Temperature solution. Monitor temperatures with precision, receive alerts for variations, and analyze historical data for trend identification. Ensure equipment and process optimization with our temperature management tools.",
-      image:"./images/temperature.png",
+      image:"/images/temperature.png",
       information:[
         {
           title:'Precision Temperature Monitoring',
@@ -83,7 +83,7 @@ export const ProductData = [
       title: 'Energy',
       subTitle: 'Real-time Insights for Cost-Efficient Operations.',
       description:"Drive cost-effective operations with Digindustry X.0's Energy solution. Gain real-time insights into energy consumption, receive efficiency recommendations, and conduct detailed cost analysis. Our focus is on promoting sustainable practices and maximizing operational efficiency.",
-      image:"./images/energy.png",
+      image:"/images/energy.png",
       information:[
         {
           title:'Real-time Energy Consumption',
@@ -104,7 +104,7 @@ export const ProductData = [
       title: 'RTLS (Real-Time Location System)',
       subTitle: 'Accurate Asset Tracking & Enhanced Safety Measures.',
       description:"Enhance asset tracking and safety measures with Digindustry X.0's RTLS. Achieve real-time accuracy in asset tracking, implement geofencing for alerts and actions, and ensure compliance with safety protocols. Our solution optimizes logistics and contributes to a safer working environment.",
-      image:"./images/rtls.png",
+      image:"/images/rtls.png",
       information:[
         {
           title:'Accurate Asset Tracking',
@@ -125,7 +125,7 @@ export const ProductData = [
       title: 'GPS',
       subTitle: 'Global Positioning for Efficient Navigation.',
       description:"Navigate efficiently with Digindustry X.0's GPS solution. Achieve global positioning accuracy, optimize routes for vehicles and shipments, and gain geographical insights for strategic decision-making. Our GPS technology enhances overall transportation efficiency and operational visibility.",
-      image:"./images/gps.png",
+      image:"/images/gps.png",
       information:[
         {
           title:'Global Positioning Accuracy',
@@ -145,7 +145,7 @@ export const ProductData = [
       title:'HMI (Human Machine Interaction)',
       subTitle: 'Intuitive Interfaces for Seamless Interaction.',
       description:"Transform user interactions with Digindustry X.0's HCI. Design intuitive interfaces, implement gesture and voice recognition for hands-free interactions, and provide customizable interfaces for a personalized user experience. Our focus is on enhancing efficiency and user satisfaction in every interaction.",
-      image:"./images/hmi.png",
+      image:"/images/hmi.png",
       information:[
         {
           title:'Intuitive User Interfaces',
