@@ -50,10 +50,6 @@ const links = [
     name: "Ecosystem",
   },
   {
-    path: "/case-study",
-    name: "Case Study",
-  },
-  {
     path: "/publications",
     name: "Publications",
   },
